@@ -1,6 +1,6 @@
 <p><img align="center" src="https://res.cloudinary.com/kangmonkey/image/upload/v1647246866/banner_rnzemp.png" alt="kangmonkey" /></p>
-<h1 align="center">Hi 👋, I'm P Sambit Kumar</h1>
-<h3 align="center">A Tech-Enthusiast | Computer Science Engineer | Web-Designer | Custom Rom Developer | Business Analyst</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm P Sambit Kumar</h1>
+<h3 align="center">A Tech-Enthusiast | Computer Science Engineer | Web-Designer | Custom Rom Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangmonkey&label=Profile%20views&color=0e75b6&style=flat" alt="kangmonkey" /> </p>
 
