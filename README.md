@@ -30,8 +30,17 @@
 <a href="https://buymeacoffee.com/sambit2cool"><img width="50px" alt="Coffee" title="BuyMeCoffee" src="https://res.cloudinary.com/kangmonkey/image/upload/v1647269440/buymeacoffee_im7pmw.svg"/></a>
 </p>
 
-<h3 align="center">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=outrun&no-frame=true" alt="kangmonkey" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&show_icons=true&theme=blue-green&no-frame=true" alt="kangmonkey" /></p>
+<h3 align="center">My GitHub Statistics:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=outrun&no-frame=true"/>
+
+<img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=monokai-metallian&hide_border=true"/>
+
+</a>
+
+
+
+ 
+
 
 
