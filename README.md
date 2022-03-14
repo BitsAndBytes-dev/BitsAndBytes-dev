@@ -1,3 +1,4 @@
+<p><img align="center" src="https://res.cloudinary.com/kangmonkey/image/upload/v1647246866/banner_rnzemp.png" alt="kangmonkey" /></p>
 <h1 align="center">Hi 👋, I'm P Sambit Kumar</h1>
 <h3 align="center">A Tech-Enthusiast | Computer Science Engineer | Web-Designer | Custom Rom Developer | Business Analyst</h3>
 
@@ -23,12 +24,12 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sambit2cool"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sambit2cool" /></a><a href="https://paypal.me/sambit2cool"> <img align="left" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="210" alt="sambit2cool" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sambit2cool"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sambit2cool" /></a><a href="https://paypal.me/sambit2cool"> <img align="center" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="210" alt="sambit2cool" /></a></p><br><br>
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&locale=en" alt="kangmonkey" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&locale=en" alt="kangmonkey" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&" alt="kangmonkey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&" alt="kangmonkey" /></p>
 
