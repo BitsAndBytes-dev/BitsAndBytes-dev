@@ -27,5 +27,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&show_icons=true&theme=blue-green&no-frame=true" alt="kangmonkey" /></p>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sambit2cool"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="sambit2cool" /></a><a href="https://paypal.me/sambit2cool"> <img align="center" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="50" width="200" alt="sambit2cool" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sambit2cool"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="150" alt="sambit2cool" /></a><a href="https://paypal.me/sambit2cool"> <img align="center" src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" height="35" width="150" alt="sambit2cool" /></a></p><br><br>
 
