@@ -1,4 +1,4 @@
-<p><img align="center" src="https://res.cloudinary.com/kangmonkey/image/upload/v1647246866/banner_rnzemp.png" alt="kangmonkey" /></p>
+<div><img align="center" src="https://res.cloudinary.com/kangmonkey/image/upload/v1647286276/20220315_0100251_dytgus.gif" alt="kangmonkey" width="350" height="auto"/></div>
 <div align="center">
 
 <img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647284560/octo_pwmwut.gif" alt="GitHub Logo" width="150" height="150" />
