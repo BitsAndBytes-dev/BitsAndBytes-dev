@@ -28,8 +28,8 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&locale=en" alt="kangmonkey" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=outrun&no-frame=true" alt="kangmonkey" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&" alt="kangmonkey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&show_icons=true&theme=blue-green&no-frame=true" alt="kangmonkey" /></p>
 
