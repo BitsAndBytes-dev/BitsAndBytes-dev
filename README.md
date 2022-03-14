@@ -1,4 +1,9 @@
 <p><img align="center" src="https://res.cloudinary.com/kangmonkey/image/upload/v1647246866/banner_rnzemp.png" alt="kangmonkey" /></p>
+<div align="center">
+
+<img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647284560/octo_pwmwut.gif" alt="GitHub Logo" width="150" height="150" />
+
+</div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm P Sambit Kumar</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
 
