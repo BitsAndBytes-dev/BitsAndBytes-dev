@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=outrun&no-frame=true"/>
 
 <img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=monokai-metallian&hide_border=true"/>
-
+<img alt="Sambit's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kangmonkey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </a>
 
 
