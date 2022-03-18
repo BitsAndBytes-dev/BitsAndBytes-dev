@@ -2,7 +2,7 @@
 <img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647574794/20220318_0848071_udh4he.gif" alt="kangmonkey" width="350"/></div>
 <div align="center">
 
-<img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647284560/octo_pwmwut.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="70" height="70" />
 
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm P Sambit Kumar</h1>
