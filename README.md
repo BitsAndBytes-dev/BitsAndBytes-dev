@@ -6,11 +6,9 @@
 
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm P Sambit Kumar</h1>
+<p align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></p>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kangmonkey&label=Profile%20views&color=0e75b6&style=flat" alt="kangmonkey" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kangmonkey&theme=flat&column=3&margin-w=20&margin-h=20" alt="kangmonkey" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kangmonkey&theme=onedark&column=3&margin-w=10&margin-h=10" alt="kangmonkey" /></a> </p>
 
 - 🌱 I’m currently learning **react.js , tailwindcss**
 
@@ -39,10 +37,8 @@
 <h3 align="center">My GitHub Statistics:</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=outrun&no-frame=true"/>
-
 <img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=monokai-metallian&hide_border=true"/>
-<img alt="Sambit's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kangmonkey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</a>
+<img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kangmonkey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
 
