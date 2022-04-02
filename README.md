@@ -1,7 +1,4 @@
-
-<img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="70" height="70" />
-
-</div>
+<div align = "center"><img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="50" height="50" /></div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm P Sambit Kumar</h1>
 <p align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></p>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
