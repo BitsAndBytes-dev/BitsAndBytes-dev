@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647574794/20220318_0848071_udh4he.gif" alt="kangmonkey" width="350"/></div>
-<div align="center">
 
 <img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="70" height="70" />
 
@@ -10,9 +7,9 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kangmonkey&theme=onedark&column=3&margin-w=10&margin-h=10" alt="kangmonkey" /></a> </p>
 
-- 🌱 I’m currently learning **react.js , tailwindcss**
+- 🌱 I’m currently learning **react.js , tailwindcss , salesforce**
 
-- 💬 Ask me about **Python , HTML , CSS , JavaScript , Git , AWS**
+- 💬 Ask me about **Python , HTML , CSS , JavaScript , GitHub , AWS**
 
 - 📫 How to reach me **psambitk1@gmail.com**
 
