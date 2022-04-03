@@ -38,7 +38,8 @@
 <hr>
 <h3 align="center"><i>Support Me:</i></h3>
 <p align="center"
-<a href="https://paypal.me/sambit2cool"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+<br>
+<a href="https://paypal.com/paypalme/sambit2cool"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 <a href="https://ko-fi.com/sambit2cool"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1647271084/P_SAMBIT_KUMAR1646361039732_ztkyfl.jpg"><img src="https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3"/></a>
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
