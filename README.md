@@ -3,13 +3,6 @@
 <h2 align="center">𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝓅𝓇ℴ𝒻𝒾𝓁ℯ</h2>
 <p align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></p>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kangmonkey&theme=onedark&column=3&margin-w=10&margin-h=10" alt="kangmonkey" /></a> </p>
-
-- 🌱 I’m currently learning **react.js , tailwindcss , salesforce**
-
-- 💬 Ask me about **Python , HTML , CSS , JavaScript , GitHub , AWS**
-
-- 📫 How to reach me **psambitk1@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -31,8 +24,8 @@
 
 <h3 align="center">My GitHub Statistics:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=outrun&no-frame=true"/>
-<img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=monokai-metallian&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=swift&no-frame=true"/>
+<img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=swift&hide_border=true"/>
 
 <h3 align="center">Sourceforge:</h3>
 <p align="center"
