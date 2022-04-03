@@ -5,6 +5,7 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
 <hr>
 <h3 align="center"><i>Connect with me:</i></h3>
+<hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/p-sambit-kumar-92506515a" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codesandbox.io/u/kangmonkey" target="blank"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
@@ -13,6 +14,7 @@
 </p>
 <hr>
 <h3 align="center"><i>Languages and Tools:</i></h3>
+<hr>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -37,6 +39,7 @@
 </p>
 <hr>
 <h3 align="center"><i>Support Me:</i></h3>
+<hr>
 <p align="center"
 <br>
 <a href="https://paypal.com/paypalme/sambit2cool"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
@@ -46,6 +49,7 @@
 </p>
 <hr>
 <h3 align="center"><i>GitHub Statistics:</i></h3>
+<hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=swift&no-frame=true"/>
 <img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=swift&hide_border=true"/>
@@ -54,7 +58,7 @@
 <hr>
 <p align="center"
 <br>
-<a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://sourceforge.net/sflogo.php?type=17&group_id=3301256" width=200></a><br><a href="https://sourceforge.net/projects/poco-x3-projects/files/latest/download"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a><br><a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://img.shields.io/sourceforge/dt/poco-x3-projects.svg" ></a></p>
+<a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://sourceforge.net/sflogo.php?type=17&group_id=3301256" width=200></a><br><a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://img.shields.io/sourceforge/dt/poco-x3-projects.svg" ></a></p>
 <div align="center">
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
