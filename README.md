@@ -1,5 +1,6 @@
 <div align = "center"><img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="50" height="50" /></div>
 <h2 align="center"><i>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</i></h2>
+<div align="center"><img src="https://i.ibb.co/CtMPJW0/umm.gif" width="25"/></div>
 <p><h3 align="center"><i>Welcome to my profile</i></h3></p>
 <p align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></p>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></h3>
