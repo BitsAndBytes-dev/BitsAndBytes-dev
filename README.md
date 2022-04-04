@@ -1,9 +1,9 @@
 <div align = "center"><img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="50" height="50" /></div>
-<h2 align="center"><i>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</i></h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</h2>
 <div align="center"><img src="https://i.ibb.co/CtMPJW0/umm.gif" width="25"/></div>
-<div align="center"><i><b>Welcome to my profile</b></i></div>
-<div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
+<div align="center"><b>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</b></div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></div>
+<div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
 <hr>
 <h3 align="center"><b><i>Connect with me:</i></h3>
 <p align="center">
