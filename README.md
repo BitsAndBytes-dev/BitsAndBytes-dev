@@ -1,11 +1,11 @@
 <div align = "center"><img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="50" height="50" /></div>
 <h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</h2>
 <div align="center"><img src="https://i.ibb.co/CtMPJW0/umm.gif" width="25"/></div>
-<div align="center"><b>𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</b></div>
+<div align="center"><b>𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲</b></div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></div>
 <div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
 <hr>
-<h3 align="center"><b><i>Connect with me:</i></h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/p-sambit-kumar-92506515a" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codesandbox.io/u/kangmonkey" target="blank"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
@@ -13,7 +13,7 @@
 <a href="https://t.me/thepsambit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 <hr>
-<h3 align="center"><i>Languages and Tools:</i></h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -37,7 +37,7 @@
 <a href="https://heroku.com"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 </p>
 <hr>
-<h3 align="center"><i>Support Me:</i></h3>
+<h3 align="center">Support Me:</h3>
 <p align="center"
 <br>
 <a href="https://paypal.com/paypalme/sambit2cool"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
@@ -46,12 +46,12 @@
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 <hr>
-<h3 align="center"><i>GitHub Statistics:</i></h3>
+<h3 align="center">GitHub Statistics:</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=swift&no-frame=true"/>
 <img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=swift&hide_border=true"/>
 <hr>
-<h3 align="center"><i>Sourceforge:</i></h3>
+<h3 align="center">Sourceforge:</h3>
 <hr>
 <p align="center"
 <br>
