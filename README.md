@@ -1,15 +1,15 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=350&height=28"></div>
 <div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
-<h3 align="center">Connect with me:</h3>
+<div align="center">Let's Connect?🤝</></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/p-sambit-kumar-92506515a" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://codesandbox.io/u/kangmonkey" target="blank"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
 <a href="https://instagram.com/ipsambit" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/thepsambit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
+<h3 align="center">Languages and Tools 🛠</h3>
 <hr>
-<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -32,8 +32,8 @@
 <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <a href="https://heroku.com"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 </p>
+<h3 align="center">Support Me ✨</h3>
 <hr>
-<h3 align="center">Support Me:</h3>
 <p align="center"
 <br>
 <a href="https://paypal.com/paypalme/sambit2cool"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
@@ -42,13 +42,14 @@
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 <hr>
-<h3 align="center">Analytics:</h3>
+<h3 align="center">Analytics 📈</h3>
+<hr>
 <p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KangMonkey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KangMonkey&theme=blood&hide_border=true"/></a>
 </p>
 <hr>
-<h3 align="center">Sourceforge:</h3>
+<h3 align="center">Sourceforge ⬇️</h3>
 <hr>
 <p align="center"
 <br>
