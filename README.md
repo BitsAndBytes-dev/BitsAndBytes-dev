@@ -1,9 +1,6 @@
-<div align = "center"><img src="https://res.cloudinary.com/kangmonkey/image/upload/v1647583833/mona-loading-default_td6mjj.gif" alt="GitHub Logo" width="50" height="50" /></div>
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</h2>
-<div align="center"><img src="https://i.ibb.co/CtMPJW0/umm.gif" width="25"/></div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=380&height=50"></div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm P Sambit Kumar</h1>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=350&height=28"></div>
 <div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
-<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/p-sambit-kumar-92506515a" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
