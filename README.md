@@ -45,10 +45,11 @@
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 <hr>
-<h3 align="center">GitHub Statistics:</h3>
+<h3 align="center">Analytics:</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kangmonkey&show_icons=true&theme=swift&no-frame=true"/>
-<img title="My GitHub Streak" alt="Sambit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kangmonkey&theme=swift&hide_border=true"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KangMonkey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KangMonkey&theme=blood&hide_border=true"/></a>
+</p>
 <hr>
 <h3 align="center">Sourceforge:</h3>
 <hr>
