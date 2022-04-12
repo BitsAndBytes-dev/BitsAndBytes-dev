@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Sambit
+<p align="center"><a href="https://KangMonkey.github.io"><img src="https://i.ibb.co/D7YvZt3/20220412-115907.png" /></a></p>
 <br>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
 <div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
@@ -46,8 +46,7 @@
 <h3 align="center">Analytics 📈</h3>
 <hr>
 <p align="center">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KangMonkey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KangMonkey&theme=blood&hide_border=true"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMonkey&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 <hr>
 <h3 align="center">Sourceforge ⬇️</h3>
