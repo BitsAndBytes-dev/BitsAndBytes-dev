@@ -44,7 +44,7 @@
 <h3 align="center">Analytics 📈</h3>
 <hr>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMonkey&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMonkey&layout=compact&theme=github&hide_border=true" />
 </p>
 <h3 align="center">Sourceforge ⬇️</h3>
 <hr>
