@@ -1,4 +1,4 @@
-<h1><p align="center"><a href="https://KangMonkey.github.io"><img src="https://i.ibb.co/D7YvZt3/20220412-115907.png" /></a></p>
+<h1><p align="center"><a href="https://KangMonkey.github.io"><img width="80%" src="https://i.ibb.co/D7YvZt3/20220412-115907.png"/></a></p>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
 <div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
 <div align="center">Let's Connect?🤝</></h1>
@@ -41,13 +41,11 @@
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1647271084/P_SAMBIT_KUMAR1646361039732_ztkyfl.jpg"><img src="https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3"/></a>
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
-<hr>
 <h3 align="center">Analytics 📈</h3>
 <hr>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMonkey&layout=compact&theme=cobalt&hide_border=true" />
 </p>
-<hr>
 <h3 align="center">Sourceforge ⬇️</h3>
 <hr>
 <p align="center"
