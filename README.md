@@ -1,5 +1,4 @@
-<p align="center"><a href="https://KangMonkey.github.io"><img src="https://i.ibb.co/D7YvZt3/20220412-115907.png" /></a></p>
-<br>
+<h1><p align="center"><a href="https://KangMonkey.github.io"><img src="https://i.ibb.co/D7YvZt3/20220412-115907.png" /></a></p>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
 <div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
 <div align="center">Let's Connect?🤝</></h1>
