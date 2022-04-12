@@ -51,8 +51,3 @@
 <p align="center"
 <br>
 <a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://sourceforge.net/sflogo.php?type=17&group_id=3301256" width=200></a><br><a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://img.shields.io/sourceforge/dt/poco-x3-projects.svg" ></a></p>
-<div align="center">
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-</>
