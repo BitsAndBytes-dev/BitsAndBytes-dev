@@ -1,6 +1,5 @@
 <h1><p align="center"><a href="https://KangMonkey.github.io"><img width="100%" src="https://i.ibb.co/D7YvZt3/20220412-115907.png"/></a></p>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
-<div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
 <div align="center">Let's Connect?🤝</></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/p-sambit-kumar-92506515a" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,6 +7,7 @@
 <a href="https://instagram.com/ipsambit" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/thepsambit"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://forum.xda-developers.com/m/psambitk1.10219211/"><img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"></a>
+<div align="center"> <img src="https://gpvc.arturio.dev/kangmonkey"/></div>
 </p>
 <h3 align="center">Languages and Tools 🛠</h3>
 <hr>
