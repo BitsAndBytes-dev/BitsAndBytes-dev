@@ -42,10 +42,10 @@
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 <h3 align="center">Analytics 📈</h3>
-<hr>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangMonkey&layout=compact&theme=github&hide_border=true" />
-</p>
+<p align="center"
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KangMonkey&theme=default&utcOffset=8"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KangMonkey&theme=default"/></p>
+
 <h3 align="center">Sourceforge ⬇️</h3>
 <hr>
 <p align="center"
