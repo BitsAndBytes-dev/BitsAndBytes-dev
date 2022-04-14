@@ -46,7 +46,8 @@
 ## Analytics 📊
 <p align="left"
 <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KangMonkey&theme=default&utcOffset=8"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KangMonkey&theme=default"/></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KangMonkey&theme=default&utcOffset=8"/><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KangMonkey&theme=default"/></p>
 
 ## Sourceforge 🚀
 <p align="left"
