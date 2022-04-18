@@ -37,7 +37,8 @@
 ## Support Me ✨
 <p align="left"
 <br>
-<a href="https://paypal.com/paypalme/sambit2cool"><img src="https://img.shields.io/badge/PayPal-87CEEB?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+<a href="https://res.cloudinary.com/kangmonkey/image/upload/v1650259328/1_mrwvjp.png"><img src="https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white"/></a>
+<a href="https://paypal.com/paypalme/sambit2cool"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 <a href="https://ko-fi.com/sambit2cool"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1650176864/IMG_20220417_115706_vizr3v.png"><img src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/></a>
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
