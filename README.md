@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey there, I'm Sambit :wave:
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
 
