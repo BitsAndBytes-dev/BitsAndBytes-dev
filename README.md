@@ -37,10 +37,6 @@ Support Me ✨
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1650176864/IMG_20220417_115706_vizr3v.png"><img src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/></a>
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
-
-<p align="center"> 
-Sourceforge 🚀
-</p>
 <p align="center"
 <br>
 <a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://sourceforge.net/sflogo.php?type=17&group_id=3301256" width=200></a><br><a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://img.shields.io/sourceforge/dt/poco-x3-projects.svg" ></a></p>
