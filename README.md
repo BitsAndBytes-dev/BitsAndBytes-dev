@@ -1,9 +1,9 @@
-<h1><p align="center"><a href="https://KangMonkey.github.io"><img width="67%" src="https://i.ibb.co/D7YvZt3/20220412-115907.png"/></a></p>
+<h1><p align="center"><a href="https://KangMonkey.github.io"><img width="80%" src="https://i.ibb.co/D7YvZt3/20220412-115907.png"/></a></p>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
 
 <p align="center"> 
-Languages and Tools 🛠
+Languages and Tools
 </p>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -25,9 +25,9 @@ Languages and Tools 🛠
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 </p>
-
+<br>
 <p align="center"> 
-Support Me ✨
+Support Me
 </p>
 <p align="center"
 <br>
@@ -36,6 +36,10 @@ Support Me ✨
 <a href="https://ko-fi.com/sambit2cool"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1650176864/IMG_20220417_115706_vizr3v.png"><img src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/></a>
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+</p>
+<br>
+<p align="center"> 
+Developments/Projects
 </p>
 <p align="center"
 <br>
