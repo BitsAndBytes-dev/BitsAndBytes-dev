@@ -1,10 +1,9 @@
-<h1><p align="center"><a href="https://KangMonkey.github.io"><img width="80%" src="https://i.ibb.co/D7YvZt3/20220412-115907.png"/></a></p>
+# Hey there :wave:
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=F745AD&background=AA539700&center=true&lines=A+Tech-Enthusiast;Computer+Science+Engineer;Web-Designer;Android+Custom+Roms+Developer&font=Fira%20Code&center=true&width=400&height=45"></div>
 
-<p align="center"> 
-Languages and Tools
-</p>
+
+## Languages and Tools
 <p align="center"> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -25,10 +24,8 @@ Languages and Tools
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 </p>
-<br>
-<p align="center"> 
-Support Me
-</p>
+
+## Support Me
 <p align="center"
 <br>
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1650259328/1_mrwvjp.png"><img src="https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white"/></a>
@@ -37,10 +34,8 @@ Support Me
 <a href="https://res.cloudinary.com/kangmonkey/image/upload/v1650176864/IMG_20220417_115706_vizr3v.png"><img src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/></a>
 <a href="https://buymeacoffee.com/sambit2cool"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
-<br>
-<p align="center"> 
-Developments/Projects
-</p>
+
+## Developments/Projects
 <p align="center"
 <br>
 <a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://sourceforge.net/sflogo.php?type=17&group_id=3301256" width=200></a><br><a href="https://sourceforge.net/u/thepsambit/profile/"><img alt="Download Projects [Poco X3/X3 Pro]" src="https://img.shields.io/sourceforge/dt/poco-x3-projects.svg" ></a></p>
