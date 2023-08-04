@@ -1,6 +1,6 @@
 [<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BitsAndBytes-dev.BitsAndBytes-dev" />](https://visitor-badge.laobi.icu/badge?page_id=BitsAndBytes-dev.visitor-badge)
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+P Sambit+Kumar!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sambit+Kumar!;" />
 </h1>  
 <br/><br/><br/>
 </div>
@@ -21,4 +21,4 @@
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
 <br>
     
-![KangMonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangMonkey&theme=shadow_red&show_icons=true)
+![BitsAndBytes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=BitsAndBytes-dev&theme=shadow_red&show_icons=true)
