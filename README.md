@@ -1,6 +1,6 @@
-[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KangMonkey.KangMonkey" />](https://visitor-badge.laobi.icu/badge?page_id=KangMonkey.visitor-badge)
+[<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BitsAndBytes-dev.BitsAndBytes-dev" />](https://visitor-badge.laobi.icu/badge?page_id=BitsAndBytes-dev.visitor-badge)
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sambit+Kumar!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+P Sambit+Kumar!;" />
 </h1>  
 <br/><br/><br/>
 </div>
